@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html drupal="es">
+    <head>
+        <meta name="description" content="Ejemplo de HTML5" />
+        <meta name="keywords" content="HTML5,CSS3,JavaScript" />
+        <title>TAREA 1</title>
+        <link rel="stylesheet" href="estilos.css"/>
+    </head>
+    <body>
+   
+    <a href="http://www.loi.mx/es/">
+    	 <img src="C:\Users\Eduardo Preciado\Pictures\LOI 2013\fotografia voluntarios.jpg">
+    </a>
+    <a href="http://www.google.com.mx">
+
+    	Da Click aqu&iacute; <br/>
+    	para ir al buscador de google
+    </a>
+       <table>
+       	<tr>
+       		<th><h1>semana<h1></th>
+       		
+       	</tr>
+         <tr>
+       		<td></td>
+       		<td>lunes</td>
+       	</tr>
+       	<tr>
+       		<td></td>
+       		<td>martes</td>
+       	</tr>
+       	<tr>
+       		<td></td>
+       		<td>miercoles</td>
+       	</tr>
+       	<tr>
+       		<td></td>
+       		<td>jueves</td>
+       	</tr>
+       	<tr>
+       	<td></td>
+       	<td>viernes</td>
+       	</tr>
+       	<tr>
+       		<td></td>
+       		
+       		
+       		<td></td>
+
+       		</tr>
+       </table>
+       <video src="C:\Users\Eduardo Preciado\Videos\posicion de la iglecia ante las sectas.avi" controls>No Soporta Video</video>
+       <audio src="C:\Users\Eduardo Preciado\Music\AC-DC - Back In Black.mp3" controls>No soporta Audio</audio>
+    </body>
+</html>
